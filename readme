@@ -1,0 +1,19 @@
+Student Details:
+	Name: Harshavardhan Reddy
+	Roll No: 19XJ1A0518
+
+Compile Instructions:
+	Use gcc 19XJ1A0518.c
+
+Execute Instruction:
+	Run: ./a.out
+	
+Input is taken from the file input.txt. This file is attached in the folder.
+
+Output is printed to the terminal.
+	First line prints number of safe sequences.
+	After that it prints each safe sequence in the following lines in lexographic order.
+
+Both are in the format specified in the Google classroom.
+
+It generates all possible permutations in lexographic order and then checks if the generated sequence is a safe sequence.
